@@ -1,4 +1,4 @@
-// pragma solidity
+// pragma solidity 
 contract Pimptoken
 PIMP 
 100000000 pieces
@@ -9,3 +9,23 @@ wallet: 0x21f98079a6d3FED7C9630B55EE884764fB8aC226
 Everyone who help will becomme partner in our comunity, which we will have 25% of income, other income go to players.
 
 // adding connect with Girl scarlet and Pimptoken
+
+Simple contract 
+
+
+pragma solidity >=0.4.0 <0.7.0;
+
+contract SimpleStorage {
+    uint storedData;
+
+    function set(uint x) public {
+        storedData = x;
+    }
+
+    function get() public view returns (uint) {
+        return storedData;
+    }
+}
+{{{{{}==;;;;;;;;"""""<><><><><>>>>>,,,>><><>~ˇ^˘˘˘˘˘^^^^^^^33^333   ^^^^^^^^^^^^^^^^^^^^^^^^
+
+
