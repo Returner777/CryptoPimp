@@ -3,7 +3,7 @@ New funny hot crypto game
 
 1. create Pimptoken erc 20 token
 2. create scarlet erc721 token
-3. create anchie erc 721 token
+3. create anchy erc 721 token
 
 4 create candie erc 721 token
 
